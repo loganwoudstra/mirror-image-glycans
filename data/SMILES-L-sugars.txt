@@ -1,0 +1,5 @@
+Name	IUPAC	SMILES
+L-aMan-Sp8	L-Man(α-Sp8	OC[C@H](O1)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1-OCCCN-C(=O)CCCOC
+L-Rha-Sp8	L-Rha(α-Sp8	C[C@H](O1)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1-OCCCN-C(=O)CCCOC
+L-Gal-Sp8	L-Gal(α-Sp8	C([C@@H]([C@H]([C@H]([C@@H](C=O)O)O)O)O)O
+L-Glc-Sp8	L-Glc(α-Sp8	OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1-OCCCN-C(=O)CCCOC

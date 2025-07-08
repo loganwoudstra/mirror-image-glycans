@@ -1,0 +1,4 @@
+Name	IUPAC
+Man3	Man(a1-3)[Man(a1-6)]Man(α-Sp8
+LNT	Gal(β1-3)GlcNAc(β1-3)Gal(β1-4)Glc(α-Sp8
+LeX	Gal(b1-4)[Fuc(a1-4)]GlcNAc(b1-3)Gal(α-Sp8
