@@ -1,0 +1,149 @@
+#	First Sample	N	cbpId	Investigator	Protein Name	Full protein name	UniProt ID, etc.	Other Information Source
+1	1	9	cbp_2281	Lara K. Mahal	SNA	Sambucus Nigra Agglutinin	Q41358	
+2	10	7		Nicolai Bovin	Anti-LeC	Anti-H(O) lectin 1	P22972	
+3	17	7	cbp_2787	Lara K. Mahal	UEA I	Ulex Europaeus Agglutinin I	P22972	
+4	24	6	cbp_2554	Lara K. Mahal	ConA	Concanavalin A	A8WDZ4	
+5	30	6	cbp_2456	Lara K. Mahal	ECL	Erythrina cristagalli lectin	Q6YD91	
+6	36	5	cbp_hum_Stlect_00116	Marcelo Dias Baruffi	Human Galectin1	Human Galectin1	P09382	
+7	41	5	cbp_1304	Marcelo Dias Baruffi	Mouse Galectin1	Mouse Galectin1	P16045	
+8	46	5	cbp_2450	Lara K. Mahal	AAL	Aleuria Aurantia Lectin	P18891	
+9	51	5	cbp_2469	Lara K. Mahal	MPL	Maclura Pomifera Lectin	P18674	
+10	56	5	cbp_2390	Lara K. Mahal	WGA	Wheat Germ Agglutinin	P10968	
+11	61	5	cbp_2553	Lara K. Mahal	WGA	Wheat Germ Agglutinin	P10968	
+12	66	5	cbp_2685	Lara K. Mahal	CTB	Cholera Toxin B Sigma_1OOM4099V	Q7X2D2	
+13	71	5	cbp_hum_Stlect_00118	Richard D. Cummings	Gal-3C	Galectin-3	P17931	
+14	76	4	cbp_1608	Elizabeth M. Meiering	Threefoil	ThreeFoil	3PG0_A	
+15	80	4	cbp_2440	Karel Bezouska	Mouse NKR-P1C	Natural killer cell receptor protein NKR-P1C	Q7TQ26	
+16	84	4	cbp_2452	Lara K. Mahal	ACL	Amaranthus caudatus Lectin	Q71QF2	
+17	88	4	cbp_2561	Lara K. Mahal	AIA	Jacalin lectin (Artocarpus integrifolia)	P18670	
+18	92	4	cbp_1478	Janko Kos	Mono1-CNL			
+19	96	4	cbp_1478	Janko Kos	Mono2R-CNL	Clitocybe nebularis Ricin B-like lectin	B2ZRS9	
+20	100	4	cbp_1622	Bidadi Venkataram Prasad	P11 VP8			
+21	104	4	cbp_2689	Kinjiro Morimoto	PFL	Pseudomonas fluorescens agglutinin	GenBank 4FBO_B	
+22	108	4	cbp_2493	Lara K. Mahal	CA	Colchicum autumnale lectin EY_290516-1		
+23	112	4	cbp_2541	Lara K. Mahal	CAA	Caragana arborescens Agglutinin EY_290521-1	Q9ZRP0	
+24	116	4	cbp_2453	Lara K. Mahal	ConA	Concanavalin A	A8WDZ4	
+25	120	4	cbp_2460	Lara K. Mahal	GSL-2	Griffonia simplicifolia Lectin II	Q41263	
+26	124	4	cbp_2459	Lara K. Mahal	GSL-1	Griffonia Simplicifolia Lectin I	Q8W1R6	
+27	128	4	cbp_2458	Lara K. Mahal	GNL	Galanthus Nivalis Lectin Vector_W0719	P30617	
+28	132	4	cbp_2457	Lara K. Mahal	EEL	Euonymus Europaeus Lectin Vector_W1010	B3SV73	
+29	136	4	cbp_2455	Lara K. Mahal	DSL	Datura stramonium lectin	A0A089ZWN7	
+30	140	4	cbp_2454	Lara K. Mahal	DBA	Dolichos Biflorus Agglutinin	P05045	
+31	144	4	cbp_2462	Lara K. Mahal	HHL	Hippeastrum rutilum lectin	Q8H1A8	
+32	148	4	cbp_2544	Lara K. Mahal	HAA	Helix aspersa agglutinin	A0A0R4I963 (GenBank 4Q56)	
+33	152	4	cbp_2770	Lara K. Mahal	HPA	Helix pomatia agglutinin	Q2F1K8	
+34	156	4	cbp_2542	Lara K. Mahal	CSA(EY Lab)	Cytisus scoparius Lectin	P29257	
+35	160	4	cbp_2461	Lara K. Mahal	GSL-I-B4	Griffonia Simplicifolia Lectin I Isolectin B4	Q8W1R6	
+36	164	4	cbp_2464	Lara K. Mahal	LCA	Lens Culinaris Agglutinin	P02870	
+37	168	4	cbp_2511	Lara K. Mahal	LcH	Lens culinaris Agglutinin EY_292014-1	P02870	
+38	172	4	cbp_2465	Lara K. Mahal	LEL	Lycopersicon Esculentum Lectin Vector_W0424	G9M5T0	
+39	176	4	cbp_2470	Lara K. Mahal	NPA	Narcissus Pseudonarcissus Lectin	C0HM45	
+40	180	4	cbp_2466	Lara K. Mahal	LTL	Lotus Tetragonolobus Lectin Vector_X0412	D0VWW1	
+41	184	4	cbp_2467	Lara K. Mahal	MAL I	Maackia Amurensis Lectin I Vector_W0224	P93246	
+42	188	4	cbp_2555	Lara K. Mahal	MAA	Maackia amurensis Lectin	P93247	
+43	192	4	cbp_2471	Lara K. Mahal	PHA-E	Phaseolus vulgaris lectin E	P05088	
+44	196	4	cbp_2774	Lara K. Mahal	MAA(Seikagaku)	Maackia amurensis agglutinin (MAA) Seikagaku_22101C	P93247	
+45	200	4	cbp_2468	Lara K. Mahal	MAL II	Maackia Amurensis Lectin II	P93246	
+46	204	4	cbp_2558	Lara K. Mahal	PHA-E	Phaseolus vulgaris lectin E	P05088	
+47	208	4	cbp_2522	Lara K. Mahal	PSL	Pisum sativum Lectin	B5A8N6	
+48	212	4	cbp_2472	Lara K. Mahal	PHA-L	Phytohemagglutinin-L	Q5ZET2	
+49	216	4	cbp_2547	Lara K. Mahal	PTA-Gal	Psophocarpus tetragonolobus lectin	O24313	
+50	220	4	cbp_2475	Lara K. Mahal	PTL-I	Psophocarpus Tetragonolobus Lectin I Vector_W1011	Q9SM56	
+51	224	4	cbp_2476	Lara K. Mahal	PTL-II	Psophocarpus tetragonolobus (Winged bean) Lectin II	1WBL_D	
+52	228	4	cbp_2276	Lara K. Mahal	RCAI (Vector)	Ricinus Communis Agglutinin I	P06750	
+53	232	4	cbp_2473	Lara K. Mahal	PNA	Peanut Agglutinin	P02872	
+54	236	4	cbp_2474	Lara K. Mahal	PSA	Pisum Sativum Agglutinin	B5A8N6	
+55	240	4	cbp_2478	Lara K. Mahal	SBA	Soybean Agglutinin	P05046	
+56	244	4	cbp_2479	Lara K. Mahal	STL	Solanum tuberosum lectin	Q9S8M0	
+57	248	4	cbp_2550	Lara K. Mahal	TJA-I	Trichosanthes Japonica Agglutinin I		
+58	252	4	cbp_2551	Lara K. Mahal	TJA-II	Trichosanthes Japonica Agglutinin II		DOI: 10.1021/bi00161a052
+59	256	4	cbp_2531	Lara K. Mahal	TL(EY Lab)	Tulip lectin	Q41622 / Q41623 / Q41624 / Q41625	
+60	260	4	cbp_2548	Lara K. Mahal	UDA	Urtica dioica Lectin	P11218	
+61	264	4	cbp_2533	Lara K. Mahal	UEAII	Ulex europaeus agglutinin-II	P22973	
+62	268	4	cbp_2482	Lara K. Mahal	VVL	Vicia Villosa Lectin	P56625	
+63	272	4	cbp_2483	Lara K. Mahal	WFL	Wisteria Floribunda Lectin	A0A218PFP3	
+64	276	4	cbp_2784	Lara K. Mahal	PA-IL	Pseudomonas aeruginosa-I galactophilic lectin	Q05097	
+65	280	4	cbp_2788	Lara K. Mahal	WGA(Seikagaku Bio)	Wheat Germ Agglutinin		
+66	284	4	cbp_2690	Miriam Dwek	Native HPA	Native Helix pomatia agglutinin	Q2F1K8	
+67	288	4	cbp_2703	Jatinder Singh	SGA	Sauromatum guttatum (venosum) lectin	A0A1L6CAS4	
+68	292	4	cbp_2602	Jatinder Singh	AHL	Artocarpus hypargyreus lectin	A0A220QMD8	
+69	296	4	cbp_2751	Shashikala Inamdar	SSR1	Sclerotium Rolfsii lectin variant 1	A0A0M3KL30	
+70	300	4	cbp_1606	Janko Kos	rMpL	Macrolepiota procera lectin	F6KMV5	
+71	304	4	cbp_2905	Anne Imberty	TbFBL1	Terfezia boudieri fucose binding lectin 1	A0A3N4LL15	
+72	308	4	cbp_2937	Markus Kuenzler	CC1G-10077	Coprinopsis cinerea  Ricin B lectin (ORF: CC1G-10077)	A8NDT7	
+73	312	4	cbp_2916	Yvette Van Kooyk	MGL 6B	Macrophage Galactose-Type C-Type Lectin Family 6 Member B		
+74	316	4	cbp_2917	Yvette Van Kooyk	MGL 6A-H262T	Macrophage Galactose-Type C-Type Lectin 6A, Histidine 262 Threonine Variant		
+75	320	4	cbp_hum_Ctlect_292	Yvette Van Kooyk	MGL 6A	Macrophage Galactose-Type C-Type Lectin 6A		
+76	324	4	cbp_2951	Rongsheng Jin	HA70 complex-Alexa	-		
+77	328	4	cbp_2390	Brian Haab	WGA multimer	Wheat Germ Agglutinin (WGA) Vector_X0103		
+78	332	4	cbp_3020	Anne Imberty	rPVL	Psathyrella velutina Lectin	A0A5C3KYT6	
+79	336	4	cbp_3061	Rich Olson	VVHA lectin		Q7MDS1	
+80	340	4	cbp_pla_other_334	Carole A. Bewley	BanLec	Banana lectin	Q8L5H4	
+81	344	4	cbp_3129	Pavel Lukyanov	CGL	Crenomytilus grayanus lectin	H2FH31	
+82	348	4	cbp_hum_Stlect_00118	Richard D. Cummings	Gal-3	Galactin-3	P13045	
+83	352	4	cbp_3484	Richard D. Cummings	human Gal-7	Human Galectin-7	P47929	
+84	356	4	cbp_3486	Richard D. Cummings	mouse Gal-7	Mouse Galactin-7	O54974	
+85	360	3		Brian Haab	CA19.9-1B844	Carbohydrate antigen 19-9		https://doi.org/10.1002/pmic.201000827
+86	363	3		Brian Haab	CA19.9-9L426			
+87	366	3		Brian Haab	CA19.9-121SLE			
+88	369	3		Hans-J√∂rg B√ºhring	IPS-K-4A2B8			
+89	372	3	cbp_1672	Marie Hanigan	Microvirin		E0UGD2	
+90	375	3		Hiroto Kawashima	ab5	-		
+91	378	3	cbp_2552	Lara K. Mahal	AOL (Mahal Lab)	Aspergillus oryzae lectin	Q2UNX8	
+92	381	3	cbp_2487	Lara K. Mahal	ABA	Agaricus bisporus agglutinin	Q00022	
+93	384	3	cbp_1478	Janko Kos	Mono2W-CNL	-		
+94	387	3	cbp_2451	Lara K. Mahal	BPL	Bauhinia Purpurea Lectin	P16030	
+95	390	3	cbp_2506	Lara K. Mahal	GS-II (EY Lab)	Griffonia simplicifolia Lectin II	Q41262	
+96	393	3	cbp_2505	Lara K. Mahal	EEA(EY Lab)	Euonymus europaeus lectin	B3SV73	
+97	396	3	cbp_2507	Lara K. Mahal	GNA (EY Lab)	Galanthus Nivalis Lectin	Q39904	
+98	399	3	cbp_2509	Lara K. Mahal	HHA(EY Lab)	Hippeastrum hybrid agglutinin	Q7Y041	
+99	402	3	cbp_2560	Lara K. Mahal	PHA-L	Phytohemagglutinin-L	Q5ZET2	
+100	405	3	cbp_2563	Lara K. Mahal	PNA	Peanut Agglutinin	P02872	
+101	408	3	cbp_2562	Lara K. Mahal	SBA	Soybean Agglutinin	P05046	
+102	411	3	cbp_2480	Lara K. Mahal	SJA	Styphnolobium japonicum Lectin	Q9ZRM6	
+103	414	3	cbp_2481	Lara K. Mahal	UEA I	Ulex Europaeus Agglutinin I	P22972	
+104	417	3	cbp_2549	Lara K. Mahal	VGA(EY Lab)	Vicia graminea lectin		https://doi.org/10.1248/yakushi1947.113.2_95
+105	420	3	cbp_2687	Lara K. Mahal	WGA	Wheat Germ Agglutinin	P10968	
+106	423	3	cbp_2789	Lara K. Mahal	MNA-M	Morus nigra Agglutinin	P83422/P83424/ P83426/ P83423	
+107	426	3	cbp_2790	Lara K. Mahal	MOA	Marasmius oreades Agglutinin	Q8X123	
+108	429	3	cbp_1716	Rich Olson	WT-VCC	-		
+109	432	3	cbp_hum_Ctlect_228	Irma Van Die	ME5(detected with a-HUD)	-		
+110	435	3	cbp_1477	Hui Sun	AAL	Aleuria Aurantia Lectin	P18891	
+111	438	3	cbp_2445	Jos√© M. Manche√±o	LSL-150	Laetiporus sulphureus lectin	Q7Z8V1	
+112	441	3	cbp_2446	Jos√© M. Manche√±o	LBL-152	laminin-binding lectin	G7SDG9	
+113	444	3	cbp_hum_Ctlect_228	Irma Van Die	ME7(detected with a-HUD)	-		
+114	447	3	cbp_2733	John Fraser	SSL0-488	-		
+115	450	3	cbp_2744	Zeev Pancer	VLRB.aGPA.23	-		
+116	453	3	cbp_1714	Robert L. Atmar	rNV VLP-Cy3	-		
+117	456	3	cbp_2904	Anne Imberty	AFCNVH	-		
+118	459	3	cbp_2903	Anne Imberty	HML-Native	Hypnea musciformis lectin	P84871	
+119	462	3		Lara K. Mahal	#8 Lewis B (T218) (Abcam)	-		
+120	465	3		Lara K. Mahal	#15 Sialyl Lewis X (BD)	-		
+121	468	3		Lara K. Mahal	#14 Sialyl Lewis X (Calbio)	-		
+122	471	3	cbp_hum_Stlect_00116	Francoise Guerlesquin	hGal-1-488+BCR	-		
+123	474	3	cbp_2938	Anne Imberty	TbFBL2	Terfezia boudieri fucose binding lectin 2	A0A3N4LH05	
+124	477	3	cbp_hum_Ctlect_217	Kurt Drickamer	MGL 416			
+125	480	3	cbp_2948	Anne Imberty	BTL native	Bryothamnion triquetrum lectin		https://doi.org/10.1007/PL00000696
+126	483	3		John Kearney	GAC78			
+127	486	3	cbp_2984	Gerard Zurawski	DC-ASGPR short			
+128	489	3		Luc Teyton	Sp Serotype 14.2			
+129	492	3		Luc Teyton	Sp Serotype 14.15			
+130	495	3	cbp_2750	Shashikala Inamdar	rSRL	Recombinant Sclerotium rolfsii lectin		
+131	498	3	cbp_oth_Other_933	Shashikala Inamdar	SRL	Sarcalumenin lectin	Q86TD4	
+132	501	3	cbp_hum_Stlect_00116	Linda Baum	Galectin-1	Galectin-1	P09382	
+133	504	3	cbp_3021	Horacio Heras	PsSC			
+134	507	3	cbp_3074	Nobuyuki Matoba	Avaren-Fc			
+135	510	3	cbp_3134	Janko Kos	CnSepL			
+136	513	3		Brian Haab	CA19-9 Ab (DRG)			
+137	516	3	cbp_mou_Stlect_203	Oscar Campetella	WT Galectin-8	Wild Type Galectin-8	O00214	
+138	519	3	cbp_3151	Markus Kuenzler	CML1	Coprinopsis cinerea lectin 1	B3VS76	
+139	522	3	cbp_3239	Almudena Fern√°ndez Briera	PhoSPL001			
+140	525	3	cbp_oth_other_339	Ronnie Willaert	Epa1-Np mutant Y228W	Epithelial adhesin 1		https://www.uniprot.org/uniprotkb?query=Epa1p
+141	528	3	cbp_oth_other_339	Ronnie Willaert	Epa1-Np mutant Y228A			
+142	531	3	cbp_oth_other_339	Ronnie Willaert	Epa1-Np mutant E227G			https://www.uniprot.org/uniprotkb?query=Epa1p
+143	534	3	cbp_oth_other_339	Ronnie Willaert	Epa1-Np mutant E227A			
+144	537	3	cbp_oth_other_339	Ronnie Willaert	Epa1-Np WT			
+145	540	3	cbp_3345	Janko Kos	CnMBL	Clytia nigra Mannose-Binding Lectin		https://www.uniprot.org/uniprotkb?query=Mannose-Binding+Lectin
+146	543	3	cbp_3245	Shashikala Inamdar	DBL-1	Dioclea bicolor Lectin	P58908	
+147	546	3		Kate Rittenhouse-Olson	hJAA-F11-B11	Antibody		https://doi.org/10.1016/j.neo.2017.07.001
+148					DC-SIGN		NM_021155.4	
