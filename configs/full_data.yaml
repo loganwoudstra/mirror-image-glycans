@@ -1,0 +1,4 @@
+    glycan_path: "data/Glycan-Structures.txt"
+    protein_path: "data/Lectin-Sequence-Information.tsv"
+    fasta_path: "data/lectin_sequences.fasta"
+    save_path: "data/full_leor_preds.csv"

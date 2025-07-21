@@ -1,0 +1,4 @@
+    glycan_path: "data/Glycans-L-sugars-etc2.txt"
+    protein_path: "data/Lectin-Sequence-Information.tsv"
+    fasta_path: "data/lectin-sequence-subset.fasta"
+    save_path: "data/select_leor_preds.csv"
